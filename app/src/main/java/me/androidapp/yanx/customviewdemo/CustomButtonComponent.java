@@ -1,4 +1,4 @@
-package com.androidapp.yanx.lan_gtd.views;
+package me.androidapp.yanx.customviewdemo;
 
 import android.content.Context;
 import android.graphics.Canvas;
